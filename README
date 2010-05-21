@@ -1,0 +1,16 @@
+Requires
+--------
+Python2.6 (or simplejson - http://www.undefined.org/python/), PyQt4.
+
+Tested
+------
+Only tested on Debian Unstable
+
+How to run
+----------
+chmod +x stacktray.py
+./stacktray.py
+
+License
+-------
+BSD Open Source License (http://creativecommons.org/licenses/BSD/)
